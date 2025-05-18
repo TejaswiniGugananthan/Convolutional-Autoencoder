@@ -37,7 +37,7 @@ Visualize and compare original, noisy, and denoised images.
 ## PROGRAM
 ### Name: G.TEJASWINI 
 ### Register Number: 212222230157
-```
+```PYTHON
 # Autoencoder for Image Denoising using PyTorch
 
 import torch
@@ -170,10 +170,13 @@ visualize_denoising(model, test_loader)
 
 ### Model Summary
 
+![image](https://github.com/user-attachments/assets/626482b0-fc73-4c08-a8fb-50c41d474811)
 
 
 
 ### Original vs Noisy Vs Reconstructed Image
+
+![image](https://github.com/user-attachments/assets/af2a0d98-279c-4078-b351-9cd71f6b0a7b)
 
 
 
